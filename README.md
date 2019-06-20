@@ -50,5 +50,3 @@ Folder **BRCA**:
 **BRCA_analysis_d4_GFA.R** - analysis of BRCA data using GFA
 
 **BRCA_d4_results.R** - save the output in a more comparable form for later use
-
-**BRCA_d4_load_output.R** - analysis of the results on BRCA data
